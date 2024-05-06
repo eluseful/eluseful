@@ -2,10 +2,32 @@
 
 ### About Me
 
-I'm Yusuf Suleiman, a passionate data scientist. I thrive on turning complex data into valuable insights. I'm driven by the desire to make data science accessible and to craft intuitive digital experiences.
+👋 Hi there! I'm Yusuf, a data specialist dedicated to leveraging technology for social good causes. My passion lies in harnessing data-driven insights to address global challenges in open science, climate change, and global health.
 
-### Skills
-1. Machine learning
-2. Data Analytics
-3. GIS & Remote Sensing.
-4. Data Visualization.
+### Skills & Interests:
+
+📊 Data Analytics | 🤖 Machine Learning | 🌍 GIS & Remote Sensing
+
+🔬 Global Health | 🌱 Climate Change | 🌐 Open Science
+
+### Tools & Technologies:
+
+🐍 Python | 📈 scikit-learn | 🗺️ QGIS | 📊 Excel | 💾 SQL
+
+
+### Projects:
+
+🌱 Project GreenEarth: Analyzing satellite imagery to monitor deforestation rates in Kaduna, Nigeria.
+
+🔬 HealthAI: Developing machine learning models to predict patients at risk of breast Cancer.
+
+
+
+
+
+
+
+
+
+
+~Passionate about data-driven solutions for a better world. 🌍 Let's connect and collaborate!
