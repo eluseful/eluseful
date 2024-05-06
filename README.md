@@ -1,3 +1,4 @@
+
 ### Hi there 👋 everybody!
 
 ### About Me
@@ -21,14 +22,6 @@
 
 🔬 HealthAI: Developing machine learning models to predict patients at risk of breast Cancer.
 
+![Project Image](https://github.com/eluseful/Visualizing-Google-Searches-on-KIDNAPPING-in-Nigeria/blob/main/kidnapping-google-search-trends-NG-2010-2024.png)
 
-
-
-
-
-
-
-
-
-
-~Passionate about data-driven solutions for a better world. 🌍 Let's connect and collaborate!
+*Passionate about data-driven solutions for a better world.* 🌍 Let's connect and collaborate!
