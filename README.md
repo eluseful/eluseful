@@ -1,5 +1,5 @@
 
-### Hi there 👋 everybody!
+## Hi there 👋 everybody!
 
 ### About Me
 
@@ -21,6 +21,10 @@
 🌱 Project GreenEarth: Analyzing satellite imagery to monitor deforestation rates in Kaduna, Nigeria.
 
 🔬 HealthAI: Developing machine learning models to predict patients at risk of breast Cancer.
+
+### Visualization:
+
+![Age Distribution of Nigerian Presidents](https://github.com/eluseful/AgesofPresidencies/blob/main/Age_dist.png)
 
 ![Project Image](https://github.com/eluseful/Visualizing-Google-Searches-on-KIDNAPPING-in-Nigeria/blob/main/kidnapping-google-search-trends-NG-2010-2024.png)
 
